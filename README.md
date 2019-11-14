@@ -1,3 +1,3 @@
-# heroku-first-app
+# Building custom Apps with Heroku
 
-Self-explanatory. Lets test again.
+This repo will be an organic workplace for Atrians to compose a set of instructions, resources, and tips to work with Heroku.
